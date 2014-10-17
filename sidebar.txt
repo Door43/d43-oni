@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oni:home|Door43 (oni)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oni|d43-oni repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oni/archive/master.zip|d43-oni.zip]]
+
+**Recent Changes**
+{{changes>ns = oni}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oni|Ethnologue data]]
+
